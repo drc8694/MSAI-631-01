@@ -30,7 +30,7 @@ The chatbot was developed as part of the Artificial Intelligence for Human-Compu
 ## How to Run
 
 Run chatbot:
-python chatbot.py
+python Simple_chatbot.py
 
 Run tests:
 python test_chatbot.py
