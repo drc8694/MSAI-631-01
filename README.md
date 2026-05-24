@@ -24,7 +24,7 @@ The chatbot was developed as part of the Artificial Intelligence for Human-Compu
 - PyCharm
 
 ## Files
-- chatbot.py → Main chatbot implementation
+- simple_chatbot.py → Main chatbot implementation
 - test_chatbot.py → Unit tests for chatbot functionality
 
 ## How to Run
